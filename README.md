@@ -209,23 +209,7 @@ sh party2026.sh
 
 ## 📦 Requirements File
 
-Create a `requirements.txt` file for easy reference:
 
-```bash
-# Create requirements.txt
-cat > requirements.txt << 'EOF'
-figlet
-toilet
-lolcat
-cowsay
-fortune
-boxes
-pv
-cmatrix
-git
-bash
-EOF
-```
 
 ### Install from Requirements (Manual)
 
